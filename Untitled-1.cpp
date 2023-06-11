@@ -22,4 +22,15 @@ int main(){
     printf("%s",name);
 
     return 0;
+
+    //prototyping
+        double cube (double num);
+
+        int main(){
+            return 0;
+        }
+        
+        double cube(double num){
+            //do smth
+        }
 }
